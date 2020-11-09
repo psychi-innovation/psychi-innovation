@@ -1,18 +1,50 @@
 ---
 layout: default
 ---
+> `“Only the hand that erases can write the true thing.”
+― Meister Eckhart`
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+Why do we seek the grand order of the universe?
+How is democracy, tyranny, etc. connected to science, computing, etc.?
+What is the deep relationship between everything around us? and Why do such
+relationships occur? These intricate relationships have an overarching
+explanation that ultimately manifest themselves in technology through
+inventions and innovations. Technology as a means is what we are here to discuss.
+We undertake a purposeful job of understanding technology through its
+invention and innovation in order to create targeted impact. 
 
-[Link to another page](./another-page.html).
+### Leadership Team
 
-There should be whitespace between paragraphs.
+* Prof Philip Treleaven: Chief Scientist
+* Sirvan Almasi: Co-founder and team lead
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+### Members
+Non-leadership team
 
-# Header 1
+# Philosophy & Vision
+The initiative is set on the pillars of our philosophy that trancends 
+everything that we do. These perspectives and philosophies are universal.
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+* The club's vision - Prof Philip Treleaven
+* Survival of the Imaginative - Sirvan Almasi
+* Value vs. Money - Sirvan Almasi
+
+# Themes & Research
+
+## Research
+* The Innovation Estimate
+* The Software Estimate
+
+## Themes
+* Innovation during a Pandemic
+* Local e-commerce
+* Decentralised logistic network
+* Decentralised e-commerce wallet
+* Decentralised identity network
+
+# Publications
+
+List of official publications and essays by our members.
 
 ## Header 2
 
