@@ -4,38 +4,24 @@ layout: default
 > `“Only the hand that erases can write the true thing.”
 ― Meister Eckhart`
 
+Innovation is fundamental concept of our reality. Understanding innovation
+whether in biological or emergent systems, such as our economy, is key in making
+sustainable progress.
 
-### Leadership Team
+We are optimising economic innovation.
 
-* Prof Philip Treleaven: Chief Scientist
-* Sirvan Almasi
-* Dr Franziska (Kiki) Leutner
+We are *accelerating* the innovation process by creating new tools and methods
+using the best knowledge there is to explain innovation.
 
-### Members
-Non-leadership team
-
-# Philosophy & Vision
-The initiative is set on the pillars of our philosophy that trancends 
-everything that we do. These perspectives and philosophies are universal.
-
-* The club's vision - Prof Philip Treleaven
-* Survival of the Imaginative - Sirvan Almasi
-* Value vs. Money - Sirvan Almasi
-
-# Themes & Research
-
-## Research
-* The Innovation Estimate
-* The Software Estimate
-
-## Themes
-* Innovation during a Pandemic
-* Local e-commerce
-* Decentralised logistic network
-* Decentralised e-commerce wallet
-* Decentralised identity network
-
-# Publications
-
-List of official publications and essays by our members.
-
+### What we are working on 
+- *Team formation.*  Using psychometrics and AI to bring the right people
+  together to achieve success.
+- *Strategy.*  Thinking clearly about strategy and communicating that is not an
+  easy task; cognitive biases and lack of knowledge can lead to failure. We have
+  created **The Innovation Estimate** to guide the innovator in validating their
+  idea and creating a strategic plan through rigorous analysis.
+- *Tools.*  Having the right tools and knowledge in using them is a simple but
+  effective method in aiding the innovators.
+- *Legal.*  The operating environment is influenced by policies and the legal
+  systems. Therefore, understanding this and creating efficient means to
+  navigate the legal environment is important.
